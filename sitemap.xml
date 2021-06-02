@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://alexis-ribal.github.io/blogs/aliquam/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url><url>
-    <loc>http://alexis-ribal.github.io/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url><url>
-    <loc>http://alexis-ribal.github.io/blogs/</loc>
-    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-  </url><url>
-    <loc>http://alexis-ribal.github.io/blogs/tempus/</loc>
-    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
-  </url><url>
-    <loc>http://alexis-ribal.github.io/blogs/magna/</loc>
-    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
-  </url><url>
-    <loc>http://alexis-ribal.github.io/blogs/ipsum/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url><url>
-    <loc>http://alexis-ribal.github.io/categories/</loc>
-  </url><url>
-    <loc>http://alexis-ribal.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://alexis-ribal.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://alexis-ribal.github.io/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
