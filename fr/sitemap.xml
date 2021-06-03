@@ -391,18 +391,6 @@
                 href="https://alexis-ribal.github.io/fr/funfacts/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/fr/banner/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/banner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alexis-ribal.github.io/fr/banner/"
-                />
-  </url><url>
     <loc>https://alexis-ribal.github.io/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -413,6 +401,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alexis-ribal.github.io/fr/about/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/fr/banner/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/banner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alexis-ribal.github.io/fr/banner/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/fr/call-to-action/</loc>
