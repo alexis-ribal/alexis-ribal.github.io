@@ -15,6 +15,19 @@
                 href="https://alexis-ribal.github.io/fr/tags/access/"
                 />
   </url><url>
+    <loc>https://alexis-ribal.github.io/fr/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alexis-ribal.github.io/fr/"
+                />
+  </url><url>
     <loc>https://alexis-ribal.github.io/fr/tags/art/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -260,19 +273,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://alexis-ribal.github.io/fr/categories/sketch/"
-                />
-  </url><url>
-    <loc>https://alexis-ribal.github.io/fr/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://alexis-ribal.github.io/fr/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/fr/tags/</loc>
