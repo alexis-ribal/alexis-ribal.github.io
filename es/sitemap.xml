@@ -403,6 +403,18 @@
                 href="https://alexis-ribal.github.io/es/about/"
                 />
   </url><url>
+    <loc>https://alexis-ribal.github.io/es/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/service/"
+                />
+  </url><url>
     <loc>https://alexis-ribal.github.io/es/call-to-action/</loc>
     <xhtml:link
                 rel="alternate"
@@ -425,18 +437,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alexis-ribal.github.io/es/contact/"
-                />
-  </url><url>
-    <loc>https://alexis-ribal.github.io/es/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/service/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/es/banner/</loc>
