@@ -158,19 +158,6 @@
                 href="https://alexis-ribal.github.io/es/blog/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/es/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/portfolio/"
-                />
-  </url><url>
     <loc>https://alexis-ribal.github.io/es/portfolio/project-1/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -379,6 +366,19 @@
                 href="https://alexis-ribal.github.io/es/tags/web/"
                 />
   </url><url>
+    <loc>https://alexis-ribal.github.io/es/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/portfolio/"
+                />
+  </url><url>
     <loc>https://alexis-ribal.github.io/es/funfacts/</loc>
     <xhtml:link
                 rel="alternate"
@@ -415,18 +415,6 @@
                 href="https://alexis-ribal.github.io/es/service/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/es/call-to-action/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/call-to-action/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/call-to-action/"
-                />
-  </url><url>
     <loc>https://alexis-ribal.github.io/es/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -461,6 +449,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alexis-ribal.github.io/es/testimonial/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/es/call-to-action/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/call-to-action/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/call-to-action/"
                 />
   </url>
 </urlset>

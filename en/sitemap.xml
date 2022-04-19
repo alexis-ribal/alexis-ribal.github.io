@@ -132,6 +132,19 @@
                 href="https://alexis-ribal.github.io/categories/development/"
                 />
   </url><url>
+    <loc>https://alexis-ribal.github.io/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/portfolio/"
+                />
+  </url><url>
     <loc>https://alexis-ribal.github.io/categories/logo/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -156,19 +169,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alexis-ribal.github.io/blog/"
-                />
-  </url><url>
-    <loc>https://alexis-ribal.github.io/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/portfolio/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/portfolio/project-1/</loc>
