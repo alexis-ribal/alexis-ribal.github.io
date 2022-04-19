@@ -379,16 +379,16 @@
                 href="https://alexis-ribal.github.io/es/tags/web/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/es/funfacts/</loc>
+    <loc>https://alexis-ribal.github.io/es/funfacts_hidden/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alexis-ribal.github.io/funfacts/"
+                href="https://alexis-ribal.github.io/funfacts_hidden/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alexis-ribal.github.io/es/funfacts/"
+                href="https://alexis-ribal.github.io/es/funfacts_hidden/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/es/about/</loc>
@@ -415,16 +415,16 @@
                 href="https://alexis-ribal.github.io/es/service/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/es/testimonial/</loc>
+    <loc>https://alexis-ribal.github.io/es/testimonial_hidden/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alexis-ribal.github.io/testimonial/"
+                href="https://alexis-ribal.github.io/testimonial_hidden/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alexis-ribal.github.io/es/testimonial/"
+                href="https://alexis-ribal.github.io/es/testimonial_hidden/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/es/contact/</loc>
