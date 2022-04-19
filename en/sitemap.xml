@@ -392,16 +392,6 @@
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/about/"
-                />
   </url><url>
     <loc>https://alexis-ribal.github.io/banner/</loc>
     <xhtml:link

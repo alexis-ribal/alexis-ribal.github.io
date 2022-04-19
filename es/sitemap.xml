@@ -391,17 +391,7 @@
                 href="https://alexis-ribal.github.io/es/funfacts/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/es/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/about/"
-                />
+    <loc>https://alexis-ribal.github.io/es/acerca/</loc>
   </url><url>
     <loc>https://alexis-ribal.github.io/es/service/</loc>
     <xhtml:link
