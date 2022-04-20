@@ -403,6 +403,30 @@
                 href="https://alexis-ribal.github.io/es/about/"
                 />
   </url><url>
+    <loc>https://alexis-ribal.github.io/es/courses/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/courses/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/es/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/links/"
+                />
+  </url><url>
     <loc>https://alexis-ribal.github.io/es/service/</loc>
     <xhtml:link
                 rel="alternate"
@@ -425,6 +449,42 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alexis-ribal.github.io/es/testimonial_hidden/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/es/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/projects/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/es/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/publications/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/es/repository/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/repository/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/repository/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/es/banner/</loc>
