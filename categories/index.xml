@@ -9,6 +9,15 @@
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
     <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>commodities</title>
+      <link>https://alexis-ribal.github.io/categories/commodities/</link>
+      <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alexis-ribal.github.io/categories/commodities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>economics</title>
       <link>https://alexis-ribal.github.io/categories/economics/</link>
       <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
@@ -18,20 +27,11 @@
     </item>
     
     <item>
-      <title>environment</title>
-      <link>https://alexis-ribal.github.io/categories/environment/</link>
+      <title>policy</title>
+      <link>https://alexis-ribal.github.io/categories/policy/</link>
       <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://alexis-ribal.github.io/categories/environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>commodities</title>
-      <link>https://alexis-ribal.github.io/categories/commodities/</link>
-      <pubDate>Wed, 17 Feb 2021 12:14:34 +0600</pubDate>
-      
-      <guid>https://alexis-ribal.github.io/categories/commodities/</guid>
+      <guid>https://alexis-ribal.github.io/categories/policy/</guid>
       <description></description>
     </item>
     
@@ -45,11 +45,11 @@
     </item>
     
     <item>
-      <title>analysis</title>
-      <link>https://alexis-ribal.github.io/categories/analysis/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>environment</title>
+      <link>https://alexis-ribal.github.io/categories/environment/</link>
+      <pubDate>Fri, 30 Nov 2018 12:14:34 +0600</pubDate>
       
-      <guid>https://alexis-ribal.github.io/categories/analysis/</guid>
+      <guid>https://alexis-ribal.github.io/categories/environment/</guid>
       <description></description>
     </item>
     
