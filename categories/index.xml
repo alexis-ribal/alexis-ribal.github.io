@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>environment</title>
+      <link>https://alexis-ribal.github.io/categories/environment/</link>
+      <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alexis-ribal.github.io/categories/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>database</title>
       <link>https://alexis-ribal.github.io/categories/database/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
@@ -36,15 +45,6 @@
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://alexis-ribal.github.io/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://alexis-ribal.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>logo</title>
       <link>https://alexis-ribal.github.io/categories/logo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
@@ -59,6 +59,15 @@
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
       <guid>https://alexis-ribal.github.io/categories/sketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geospatial</title>
+      <link>https://alexis-ribal.github.io/categories/geospatial/</link>
+      <pubDate>Fri, 30 Nov 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://alexis-ribal.github.io/categories/geospatial/</guid>
       <description></description>
     </item>
     
