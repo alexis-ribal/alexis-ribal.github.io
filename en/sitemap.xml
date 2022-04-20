@@ -2,6 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alexis-ribal.github.io/</loc>
+    <lastmod>2021-10-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/categories/book/</loc>
+    <lastmod>2021-10-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alexis-ribal.github.io/categories/</loc>
+    <lastmod>2021-10-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/portfolio/project-1/</loc>
+    <lastmod>2021-10-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/portfolio/project-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/portfolio/project-1/"
+                />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/categories/economics/</loc>
+    <lastmod>2021-10-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alexis-ribal.github.io/portfolio/</loc>
+    <lastmod>2021-10-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/portfolio/"
+                />
+  </url><url>
     <loc>https://alexis-ribal.github.io/tags/access/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -15,19 +73,6 @@
                 href="https://alexis-ribal.github.io/tags/access/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/"
-                />
-  </url><url>
     <loc>https://alexis-ribal.github.io/tags/art/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -39,19 +84,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alexis-ribal.github.io/tags/art/"
-                />
-  </url><url>
-    <loc>https://alexis-ribal.github.io/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/categories/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/tags/database/</loc>
@@ -132,19 +164,6 @@
                 href="https://alexis-ribal.github.io/categories/development/"
                 />
   </url><url>
-    <loc>https://alexis-ribal.github.io/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/portfolio/"
-                />
-  </url><url>
     <loc>https://alexis-ribal.github.io/categories/logo/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
@@ -169,19 +188,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alexis-ribal.github.io/blog/"
-                />
-  </url><url>
-    <loc>https://alexis-ribal.github.io/portfolio/project-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alexis-ribal.github.io/es/portfolio/project-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alexis-ribal.github.io/portfolio/project-1/"
                 />
   </url><url>
     <loc>https://alexis-ribal.github.io/portfolio/project-2/</loc>
