@@ -403,6 +403,8 @@
                 href="https://alexis-ribal.github.io/about/"
                 />
   </url><url>
+    <loc>https://alexis-ribal.github.io/courses/</loc>
+  </url><url>
     <loc>https://alexis-ribal.github.io/banner/</loc>
     <xhtml:link
                 rel="alternate"
@@ -414,6 +416,8 @@
                 hreflang="en"
                 href="https://alexis-ribal.github.io/banner/"
                 />
+  </url><url>
+    <loc>https://alexis-ribal.github.io/links/</loc>
   </url><url>
     <loc>https://alexis-ribal.github.io/call-to-action/</loc>
     <xhtml:link
@@ -427,7 +431,11 @@
                 href="https://alexis-ribal.github.io/call-to-action/"
                 />
   </url><url>
+    <loc>https://alexis-ribal.github.io/projects/</loc>
+  </url><url>
     <loc>https://alexis-ribal.github.io/publications/</loc>
+  </url><url>
+    <loc>https://alexis-ribal.github.io/repository/</loc>
   </url><url>
     <loc>https://alexis-ribal.github.io/contact/</loc>
     <xhtml:link
