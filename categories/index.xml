@@ -27,38 +27,29 @@
     </item>
     
     <item>
+      <title>commodities</title>
+      <link>https://alexis-ribal.github.io/categories/commodities/</link>
+      <pubDate>Wed, 17 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alexis-ribal.github.io/categories/commodities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>database</title>
       <link>https://alexis-ribal.github.io/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <pubDate>Wed, 17 Feb 2021 12:14:34 +0600</pubDate>
       
       <guid>https://alexis-ribal.github.io/categories/database/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>design</title>
-      <link>https://alexis-ribal.github.io/categories/design/</link>
+      <title>analysis</title>
+      <link>https://alexis-ribal.github.io/categories/analysis/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://alexis-ribal.github.io/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>logo</title>
-      <link>https://alexis-ribal.github.io/categories/logo/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://alexis-ribal.github.io/categories/logo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sketch</title>
-      <link>https://alexis-ribal.github.io/categories/sketch/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://alexis-ribal.github.io/categories/sketch/</guid>
+      <guid>https://alexis-ribal.github.io/categories/analysis/</guid>
       <description></description>
     </item>
     
@@ -68,6 +59,15 @@
       <pubDate>Fri, 30 Nov 2018 12:14:34 +0600</pubDate>
       
       <guid>https://alexis-ribal.github.io/categories/geospatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>china</title>
+      <link>https://alexis-ribal.github.io/categories/china/</link>
+      <pubDate>Fri, 01 Nov 2013 12:14:34 +0600</pubDate>
+      
+      <guid>https://alexis-ribal.github.io/categories/china/</guid>
       <description></description>
     </item>
     
