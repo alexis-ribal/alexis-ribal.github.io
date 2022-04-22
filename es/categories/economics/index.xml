@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>economics on Alexis Rivera</title>
+    <link>https://alexis-ribal.github.io/es/categories/economics/</link>
+    <description>Recent content in economics on Alexis Rivera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/es/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nonrenewable wealth</title>
+      <link>https://alexis-ribal.github.io/es/portfolio/project-1/</link>
+      <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alexis-ribal.github.io/es/portfolio/project-1/</guid>
+      <description>Chapter 9 in the Changing Wealth of Nations 2021 report that explores countries&#39; nonrenewable natural wealth (oil, gas, coal and minerals).</description>
+    </item>
+    
+    <item>
+      <title>Wealth accounting</title>
+      <link>https://alexis-ribal.github.io/es/portfolio/project-7/</link>
+      <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alexis-ribal.github.io/es/portfolio/project-7/</guid>
+      <description>Chapter 11 in the Changing Wealth of Nations 2021 report that discusses how wealth accounting (natural, human and physical capital) can be used to design sustainable macroeconomic and fiscal policies.</description>
+    </item>
+    
+  </channel>
+</rss>

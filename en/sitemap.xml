@@ -30,9 +30,29 @@
   </url><url>
     <loc>https://alexis-ribal.github.io/categories/commodities/</loc>
     <lastmod>2021-10-30T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/categories/commodities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/categories/commodities/"
+                />
   </url><url>
     <loc>https://alexis-ribal.github.io/categories/economics/</loc>
     <lastmod>2021-10-30T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/categories/economics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/categories/economics/"
+                />
   </url><url>
     <loc>https://alexis-ribal.github.io/portfolio/</loc>
     <lastmod>2021-10-30T12:14:34+06:00</lastmod>
@@ -62,9 +82,29 @@
   </url><url>
     <loc>https://alexis-ribal.github.io/categories/policy/</loc>
     <lastmod>2021-10-30T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/categories/policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/categories/policy/"
+                />
   </url><url>
     <loc>https://alexis-ribal.github.io/portfolio/project-7/</loc>
     <lastmod>2021-10-30T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/portfolio/project-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/portfolio/project-7/"
+                />
   </url><url>
     <loc>https://alexis-ribal.github.io/categories/database/</loc>
     <lastmod>2021-02-17T12:14:34+06:00</lastmod>
@@ -302,9 +342,29 @@
   </url><url>
     <loc>https://alexis-ribal.github.io/categories/environment/</loc>
     <lastmod>2018-11-30T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/categories/environment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/categories/environment/"
+                />
   </url><url>
     <loc>https://alexis-ribal.github.io/categories/geospatial/</loc>
     <lastmod>2018-11-30T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/categories/geospatial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/categories/geospatial/"
+                />
   </url><url>
     <loc>https://alexis-ribal.github.io/portfolio/project-2/</loc>
     <lastmod>2018-11-30T12:14:34+06:00</lastmod>
@@ -334,6 +394,16 @@
   </url><url>
     <loc>https://alexis-ribal.github.io/categories/china/</loc>
     <lastmod>2013-11-01T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexis-ribal.github.io/es/categories/china/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexis-ribal.github.io/categories/china/"
+                />
   </url><url>
     <loc>https://alexis-ribal.github.io/portfolio/project-5/</loc>
     <lastmod>2013-11-01T12:14:34+06:00</lastmod>
