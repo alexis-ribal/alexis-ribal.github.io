@@ -4,18 +4,17 @@
     <title>Oh My Blog! on Alexis Rivera</title>
     <link>https://alexis-ribal.github.io/blog/</link>
     <description>Recent content in Oh My Blog! on Alexis Rivera</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by somrat</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://alexis-ribal.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming soon!</title>
       <link>https://alexis-ribal.github.io/blog/blog-1/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/blog/blog-1/</guid>
-      <description>Coming soon!</description>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

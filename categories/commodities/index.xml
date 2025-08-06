@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>commodities on Alexis Rivera</title>
+    <title>Commodities on Alexis Rivera</title>
     <link>https://alexis-ribal.github.io/categories/commodities/</link>
-    <description>Recent content in commodities on Alexis Rivera</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Commodities on Alexis Rivera</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by somrat</copyright>
-    <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/categories/commodities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://alexis-ribal.github.io/categories/commodities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nonrenewable wealth</title>
       <link>https://alexis-ribal.github.io/portfolio/project-1/</link>
       <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/portfolio/project-1/</guid>
-      <description>Chapter 9 in the Changing Wealth of Nations 2021 report that explores countries&#39; nonrenewable natural wealth (oil, gas, coal and minerals).</description>
+      <description>&lt;p&gt;Chapter 9 in the Changing Wealth of Nations 2021 report that explores countries&amp;rsquo; nonrenewable natural wealth (oil, gas, coal and minerals).&lt;/p&gt;&#xA;&lt;p&gt;This chapter describes the economic importance of nonrenewable natural wealth in all countries using the data from &lt;a href=&#34;https://www.worldbank.org/cwon&#34;&gt;www.worldbank.org/cwon&lt;/a&gt; and discusses the main risks that countries face when they have abundance of these nonrenewable natural resources.&lt;/p&gt;&#xA;&lt;p&gt;Some of the main messages of this chapter include: nonrenewable assets are important for the economy, however, overreliance on them could be risky.  This chapter recommends government officials and policymakers to acknowledge these risks and diversify their economies to avoid shocks that can harm their economies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Giant oil fields</title>
       <link>https://alexis-ribal.github.io/portfolio/project-4/</link>
       <pubDate>Wed, 17 Feb 2021 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/portfolio/project-4/</guid>
-      <description>This database is part of an article published in the American Association of Petroleum Geologists Memoir 125 &amp;ldquo;Giant Fields of the Decade: 2010-2020&amp;rdquo; edited by C.</description>
+      <description>&lt;p&gt;This database is part of an article published in the American Association of Petroleum Geologists Memoir 125 &amp;ldquo;Giant Fields of the Decade: 2010-2020&amp;rdquo; edited by C. A. Sternbach, R. K. Merrill, and J. C. Dolson.  We extended the giant oil field discoveries between 1868 and 2010 recorded by Horn and Halbouty to 2019 and calculated the economic magnitude of them.&lt;/p&gt;&#xA;&lt;p&gt;This dataset is helping ongoing research on the economic and institutional performance of resource-rich countries to assess the impact of these major economic shocks and the risks that imply.  Some of the research articles and working papers can be found &lt;a href=&#34;https://resources4transformation.org/publications/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Project Title</title>
       <link>https://alexis-ribal.github.io/portfolio/project-6/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/portfolio/project-6/</guid>
-      <description>Este artículo es parte del número 137 de la revista Brújula Ciudadana editada por el equipo de Iniciativa Ciudadana para la Promoción de la Cultura del Diálogo A.</description>
+      <description>&lt;p&gt;Este artículo es parte del número 137 de la revista Brújula Ciudadana editada por el equipo de Iniciativa Ciudadana para la Promoción de la Cultura del Diálogo A.C.  El artículo analiza las consecuencias del conflicto entre Ucrania y Rusia en los mercados internacionales de commodities y cómo éstos pueden impactar las economías de América Latina.&lt;/p&gt;&#xA;&lt;p&gt;Este texto sugiere que ante una eventual escalada del conflicto y de las sanciones económicas por parte de países occidentales, los precios de algunos commodities podrían sufrir un boom que crearía ganadores y perdedores en las economías latinoamericanas.  Por lo tanto, los diseñadores de políticas públicas deberían poner atención en los cambios de estos mercados para mitigar los riesgos que pudieran surgir.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

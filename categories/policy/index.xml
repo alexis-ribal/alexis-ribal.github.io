@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>policy on Alexis Rivera</title>
+    <title>Policy on Alexis Rivera</title>
     <link>https://alexis-ribal.github.io/categories/policy/</link>
-    <description>Recent content in policy on Alexis Rivera</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Policy on Alexis Rivera</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by somrat</copyright>
-    <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/categories/policy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://alexis-ribal.github.io/categories/policy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wealth accounting</title>
       <link>https://alexis-ribal.github.io/portfolio/project-7/</link>
       <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/portfolio/project-7/</guid>
-      <description>Chapter 11 in the Changing Wealth of Nations 2021 report that discusses how wealth accounting (natural, human and physical capital) can be used to design sustainable macroeconomic and fiscal policies.</description>
+      <description>&lt;p&gt;Chapter 11 in the Changing Wealth of Nations 2021 report that discusses how wealth accounting (natural, human and physical capital) can be used to design sustainable macroeconomic and fiscal policies.&lt;/p&gt;&#xA;&lt;p&gt;This chapter combines data from &lt;a href=&#34;https://www.worldbank.org/cwon&#34;&gt;www.worldbank.org/cwon&lt;/a&gt; with other public accounts and datasets while comparing different groups of countries to assess economic and fiscal performance over 20 years of data.&lt;/p&gt;&#xA;&lt;p&gt;The figures and analysis show that policymakers can complement traditional economic analysis with wealth components to unveil long term challenges that can undermine public finance resilience to shocks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Project Title</title>
       <link>https://alexis-ribal.github.io/portfolio/project-6/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/portfolio/project-6/</guid>
-      <description>Este artículo es parte del número 137 de la revista Brújula Ciudadana editada por el equipo de Iniciativa Ciudadana para la Promoción de la Cultura del Diálogo A.</description>
+      <description>&lt;p&gt;Este artículo es parte del número 137 de la revista Brújula Ciudadana editada por el equipo de Iniciativa Ciudadana para la Promoción de la Cultura del Diálogo A.C.  El artículo analiza las consecuencias del conflicto entre Ucrania y Rusia en los mercados internacionales de commodities y cómo éstos pueden impactar las economías de América Latina.&lt;/p&gt;&#xA;&lt;p&gt;Este texto sugiere que ante una eventual escalada del conflicto y de las sanciones económicas por parte de países occidentales, los precios de algunos commodities podrían sufrir un boom que crearía ganadores y perdedores en las economías latinoamericanas.  Por lo tanto, los diseñadores de políticas públicas deberían poner atención en los cambios de estos mercados para mitigar los riesgos que pudieran surgir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Relaciones subnacionales</title>
       <link>https://alexis-ribal.github.io/portfolio/project-5/</link>
       <pubDate>Fri, 01 Nov 2013 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/portfolio/project-5/</guid>
-      <description>(In Spanish) Este documento de trabajo publicado en la División de Estudios Internacionales en coautoría con el Dr.</description>
+      <description>&lt;p&gt;(In Spanish) Este documento de trabajo publicado en la División de Estudios Internacionales en coautoría con el Dr. Carlos Heredia Zubieta dentro del Centro de Investigación y Docencia Económicas (CIDE) recopila y analiza los vínculos que han establecido los gobiernos subnacionales de México con los de China, fortaleciendo en México lo que se conoce como la «paradiplomacia».&lt;/p&gt;&#xA;&lt;p&gt;Esta investigación busca resaltar el papel de los municipios y estados en la construcción de relaciones internacionales entre los dos países y propone una serie de acciones que permitan el fortalecimiento del diálogo entre autoridades gubernamentales y así detonar una mayor interacción económica, política, educativa, cultural y científica.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

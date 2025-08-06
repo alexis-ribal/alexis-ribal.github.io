@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>database on Alexis Rivera</title>
+    <title>Database on Alexis Rivera</title>
     <link>https://alexis-ribal.github.io/categories/database/</link>
-    <description>Recent content in database on Alexis Rivera</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Database on Alexis Rivera</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by somrat</copyright>
-    <lastBuildDate>Wed, 17 Feb 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/categories/database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Feb 2021 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://alexis-ribal.github.io/categories/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Giant oil fields</title>
       <link>https://alexis-ribal.github.io/portfolio/project-4/</link>
       <pubDate>Wed, 17 Feb 2021 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/portfolio/project-4/</guid>
-      <description>This database is part of an article published in the American Association of Petroleum Geologists Memoir 125 &amp;ldquo;Giant Fields of the Decade: 2010-2020&amp;rdquo; edited by C.</description>
+      <description>&lt;p&gt;This database is part of an article published in the American Association of Petroleum Geologists Memoir 125 &amp;ldquo;Giant Fields of the Decade: 2010-2020&amp;rdquo; edited by C. A. Sternbach, R. K. Merrill, and J. C. Dolson.  We extended the giant oil field discoveries between 1868 and 2010 recorded by Horn and Halbouty to 2019 and calculated the economic magnitude of them.&lt;/p&gt;&#xA;&lt;p&gt;This dataset is helping ongoing research on the economic and institutional performance of resource-rich countries to assess the impact of these major economic shocks and the risks that imply.  Some of the research articles and working papers can be found &lt;a href=&#34;https://resources4transformation.org/publications/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>economics on Alexis Rivera</title>
+    <title>Economics on Alexis Rivera</title>
     <link>https://alexis-ribal.github.io/es/categories/economics/</link>
-    <description>Recent content in economics on Alexis Rivera</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Economics on Alexis Rivera</description>
+    <generator>Hugo</generator>
     <language>es-es</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by somrat</copyright>
-    <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/es/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://alexis-ribal.github.io/es/categories/economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nonrenewable wealth</title>
       <link>https://alexis-ribal.github.io/es/portfolio/project-1/</link>
       <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/es/portfolio/project-1/</guid>
-      <description>Chapter 9 in the Changing Wealth of Nations 2021 report that explores countries&#39; nonrenewable natural wealth (oil, gas, coal and minerals).</description>
+      <description>&lt;p&gt;Chapter 9 in the Changing Wealth of Nations 2021 report that explores countries&amp;rsquo; nonrenewable natural wealth (oil, gas, coal and minerals).&lt;/p&gt;&#xA;&lt;p&gt;This chapter describes the economic importance of nonrenewable natural wealth in all countries using the data from &lt;a href=&#34;https://www.worldbank.org/cwon&#34;&gt;www.worldbank.org/cwon&lt;/a&gt; and discusses the main risks that countries face when they have abundance of these nonrenewable natural resources.&lt;/p&gt;&#xA;&lt;p&gt;Some of the main messages of this chapter include: nonrenewable assets are important for the economy, however, overreliance on them could be risky.  This chapter recommends government officials and policymakers to acknowledge these risks and diversify their economies to avoid shocks that can harm their economies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wealth accounting</title>
       <link>https://alexis-ribal.github.io/es/portfolio/project-7/</link>
       <pubDate>Sat, 30 Oct 2021 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/es/portfolio/project-7/</guid>
-      <description>Chapter 11 in the Changing Wealth of Nations 2021 report that discusses how wealth accounting (natural, human and physical capital) can be used to design sustainable macroeconomic and fiscal policies.</description>
+      <description>&lt;p&gt;Chapter 11 in the Changing Wealth of Nations 2021 report that discusses how wealth accounting (natural, human and physical capital) can be used to design sustainable macroeconomic and fiscal policies.&lt;/p&gt;&#xA;&lt;p&gt;This chapter combines data from &lt;a href=&#34;https://www.worldbank.org/cwon&#34;&gt;www.worldbank.org/cwon&lt;/a&gt; with other public accounts and datasets while comparing different groups of countries to assess economic and fiscal performance over 20 years of data.&lt;/p&gt;&#xA;&lt;p&gt;The figures and analysis show that policymakers can complement traditional economic analysis with wealth components to unveil long term challenges that can undermine public finance resilience to shocks.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

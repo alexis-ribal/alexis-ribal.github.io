@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>china on Alexis Rivera</title>
+    <title>China on Alexis Rivera</title>
     <link>https://alexis-ribal.github.io/es/categories/china/</link>
-    <description>Recent content in china on Alexis Rivera</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in China on Alexis Rivera</description>
+    <generator>Hugo</generator>
     <language>es-es</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by somrat</copyright>
-    <lastBuildDate>Fri, 01 Nov 2013 12:14:34 +0600</lastBuildDate><atom:link href="https://alexis-ribal.github.io/es/categories/china/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2013 12:14:34 +0600</lastBuildDate>
+    <atom:link href="https://alexis-ribal.github.io/es/categories/china/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relaciones subnacionales</title>
       <link>https://alexis-ribal.github.io/es/portfolio/project-5/</link>
       <pubDate>Fri, 01 Nov 2013 12:14:34 +0600</pubDate>
-      
       <guid>https://alexis-ribal.github.io/es/portfolio/project-5/</guid>
-      <description>(In Spanish) Este documento de trabajo publicado en la División de Estudios Internacionales en coautoría con el Dr.</description>
+      <description>&lt;p&gt;(In Spanish) Este documento de trabajo publicado en la División de Estudios Internacionales en coautoría con el Dr. Carlos Heredia Zubieta dentro del Centro de Investigación y Docencia Económicas (CIDE) recopila y analiza los vínculos que han establecido los gobiernos subnacionales de México con los de China, fortaleciendo en México lo que se conoce como la «paradiplomacia».&lt;/p&gt;&#xA;&lt;p&gt;Esta investigación busca resaltar el papel de los municipios y estados en la construcción de relaciones internacionales entre los dos países y propone una serie de acciones que permitan el fortalecimiento del diálogo entre autoridades gubernamentales y así detonar una mayor interacción económica, política, educativa, cultural y científica.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
